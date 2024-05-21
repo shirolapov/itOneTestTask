@@ -1,0 +1,1 @@
+sudo find /tmp/* -type f  -depth 1 -mtime +3 -delete
